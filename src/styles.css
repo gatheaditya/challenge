@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+.card-body
+{
+    box-shadow: 0px 2px 4px grey;
+}
+body
+{
+background-color: beige;
+}
+span > img{
+    display: inline-block;
+}
