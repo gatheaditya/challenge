@@ -7,6 +7,3 @@ body
 {
 background-color: beige;
 }
-span > img{
-    display: inline-block;
-}
